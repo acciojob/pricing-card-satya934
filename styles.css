@@ -1,8 +1,25 @@
 /*  your css code here. If applicable */
 .card{
-	width: 20px;
-	height: 300px;
-    pdding: 20px;
-	background-color: rbg(0,0,255);
-	box-shadow:
+	width: 400px;
+	height: 100px;
+    pdding: 50px;
+	background-color: rbg(0 0 255);
+	box-shadow: (10px)
 }
+.g{
+	color:black;
+	text-align: center;
+}
+.button{
+	padding: 20px;
+	background-color: red;
+	margin: 30%;
+	border-radius:10px
+}
+
+
+
+
+
+
+/*  */
